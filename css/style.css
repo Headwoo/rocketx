@@ -22,6 +22,9 @@ body {
 	font-family: Roboto;
 	color: #666666;
 }
+body._lock{
+   overflow: hidden;
+}
 a {
 	text-decoration: none;
 }
